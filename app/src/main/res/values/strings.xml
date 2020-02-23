@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bus Tracker V1</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="default_code"></string>
+    <string name="default_email">Email </string>
+    <string name="default_pass"></string>
+    <string name="map_key" translatable="false">AIzaSyCQeY9cGqoRul7nARoYBgCSkv3twgrsaWc</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+    <color name="yellowColor">#C08836</color>
+    <color name="blue">#0336BA</color>
+    <color name="white_10">#A7A3A3</color>
+    <color name="icon_tint_color">#8B8A8A</color>
+    <color name="white_5">#CFCDCD</color>
+    <color name="item_left_shadow">#F19556</color>
+    <color name="green">#10B4A5</color>
+    <color name="loginBtn_color">#1073CE</color>
+    <color name="dont_have_account_txt_color">#8A8A8A</color>
+</resources>
